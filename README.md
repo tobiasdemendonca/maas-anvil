@@ -4,8 +4,6 @@ MAAS Anvil is a snap for managing a charmed (HA) MAAS deployment.
 
 > [!WARNING]
 > This version of the MAAS Anvil snap is **no longer maintained** and will be superseded by a new Terraform-driven approach that aims to reach general availability by the start of 2026. Please see the development repository for the latest version: https://github.com/canonical/maas-terraform-modules.
->
->
 
 **MAAS Deployment Components**
 
